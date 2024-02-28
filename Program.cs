@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int TotIncome = 0;
+            int TotExpenses = 0;
+
         }
     }
 }
